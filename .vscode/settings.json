@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/*.venv": true,
+        "**/requirements.txt": true,
+        "**/.cache": true,
+        "**/.ruff_cache": true
+    }
+}
